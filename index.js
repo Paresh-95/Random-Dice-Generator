@@ -33,7 +33,7 @@ function gameWinner()
 {
     if(randomNo1>randomNo2)
     {
-        document.querySelector(".result").innerHTML = "🏴Player 1 Wins ✨ 🥳";
+        document.querySelector(".result").innerHTML = "🏴 Player 1 Wins ✨ 🥳";
     }
     else if (randomNo2 > randomNo1)
     {
